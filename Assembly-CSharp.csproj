@@ -63,6 +63,7 @@
     <Compile Include="Assets\Script\Button.cs" />
     <Compile Include="Assets\Script\Player.cs" />
     <Compile Include="Assets\Script\TopSceneManager.cs" />
+    <Compile Include="Assets\Topbutton.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/ruxka/kaotsunapp/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
